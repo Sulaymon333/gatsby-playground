@@ -6,7 +6,7 @@ author: 'Sulaymon'
 
 I just want to tell you my coding journey
 
-## Topics discussed
+#### Topics discussed
 
 1. What is React
 2. Why use React

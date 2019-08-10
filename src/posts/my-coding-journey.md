@@ -4,9 +4,9 @@ date: '20.08.2019'
 author: 'Sulaymon'
 ---
 
-I just want to tell you my coding journey
+I just want to tell you about react
 
-## Topics discussed
+#### Topics discussed
 
 1. How I started
 2. My Challenges

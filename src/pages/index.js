@@ -7,7 +7,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <h1>Hello People!</h1>
-      <h3>I am Sulaymon, a fullstack developer from Amazing Nigeria.</h3>
+      <h3>I am Sulaymon, a fullstack developer from Amazing Nigeria🇳🇬.</h3>
       <p>
         Need a developer? <Link to="/contact">Contact Me</Link>
       </p>

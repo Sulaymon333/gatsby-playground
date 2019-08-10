@@ -1,8 +1,11 @@
 import React from "react"
+import Header from "../components/header"
+import Footer from "../components/footer"
 
 const ContactPage = () => {
   return (
     <div>
+      <Header />
       <h1>Contact Me</h1>
       <p>
         I am social and can be contacted through the social media links below
@@ -42,6 +45,7 @@ const ContactPage = () => {
           </a>
         </span>
       </p>
+      <Footer />
     </div>
   )
 }

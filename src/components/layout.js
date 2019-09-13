@@ -29,7 +29,7 @@ export default ({ children }) => (
     </div>
 
     <aside className="sidebar">
-      <ul style={{ listStyle: `none`, float: `right` }}>
+      <ul style={sidebarStyle}>
         <ListLink to="/">Home</ListLink>
         <ListLink to="/about">About</ListLink>
         <ListLink to="/contact">Contact</ListLink>
@@ -44,4 +44,18 @@ const containerStyle = {
   margin: `3rem auto`,
   maxWidth: 650,
   padding: `0 1rem`,
+}
+
+const sidebarStyle = {
+  listStyle: `none`,
+  position: `absolute`,
+  top: `10vh`,
+  left: `2vw`,
+  display: `flex`,
+  flexDirection: `column`,
+  justifyContent: `space-between`,
+  minHeight: `10vw`,
+  backgroundColor: `rgba(218, 224, 215, 0.3198)`,
+  padding: `2rem`,
+  borderRadius: "0.5rem",
 }

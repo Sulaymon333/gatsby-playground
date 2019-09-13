@@ -13,7 +13,7 @@ Happy Coding 😀
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd gatsbyjs-tutorial-2/
+    cd gatsbyjs-tutorial-4/
     gatsby develop
     ```
 

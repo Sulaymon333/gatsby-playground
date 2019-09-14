@@ -1,13 +1,13 @@
 ## Welomce to my Gatsbyjs-website tutorial coding challenge
 
-### Part 5 from gatsbyjs website tutorial - source plugins and rendering queried data
+### Part 6 from gatsbyjs website tutorial - transformer plugins
 
 This is where I track my personal study of Gatsbyjs tutorial from Gatsbyjs website itself. Please switch to different branches to see more on my learnings and projects.
 
 I learnt the following in this tutorial
-- Introduction to GraphQL 
-- Source Plugins
-- Build a page with a GraphQL query
+
+- What are transformer plugins?
+- How to create and display a list of site's markdown files on homepage
 
 Happy Coding 😀
 
@@ -18,7 +18,7 @@ Happy Coding 😀
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd gatsbyjs-tutorial-5/
+    cd gatsbyjs-tutorial-6/
     gatsby develop
     ```
 
